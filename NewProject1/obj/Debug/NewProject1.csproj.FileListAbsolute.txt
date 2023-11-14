@@ -1,0 +1,10 @@
+C:\Users\vidyam1\source\repos\NewProject1\bin\Debug\NewProject1.exe.config
+C:\Users\vidyam1\source\repos\NewProject1\bin\Debug\NewProject1.exe
+C:\Users\vidyam1\source\repos\NewProject1\bin\Debug\NewProject1.pdb
+C:\Users\vidyam1\source\repos\NewProject1\bin\Debug\NewClassLibrary1.dll
+C:\Users\vidyam1\source\repos\NewProject1\bin\Debug\NewClassLibrary1.pdb
+C:\Users\vidyam1\source\repos\NewProject1\obj\Debug\NewProject1.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\NewProject1\obj\Debug\NewProject1.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\NewProject1\obj\Debug\NewProject1.csproj.CopyComplete
+C:\Users\vidyam1\source\repos\NewProject1\obj\Debug\NewProject1.exe
+C:\Users\vidyam1\source\repos\NewProject1\obj\Debug\NewProject1.pdb

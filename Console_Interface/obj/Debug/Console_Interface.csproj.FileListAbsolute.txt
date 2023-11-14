@@ -1,0 +1,10 @@
+C:\Users\vidyam1\source\repos\Console_Interface\bin\Debug\Console_Interface.exe.config
+C:\Users\vidyam1\source\repos\Console_Interface\bin\Debug\Console_Interface.exe
+C:\Users\vidyam1\source\repos\Console_Interface\bin\Debug\Console_Interface.pdb
+C:\Users\vidyam1\source\repos\Console_Interface\bin\Debug\ClassLibrary_Interface.dll
+C:\Users\vidyam1\source\repos\Console_Interface\bin\Debug\ClassLibrary_Interface.pdb
+C:\Users\vidyam1\source\repos\Console_Interface\obj\Debug\Console_Interface.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_Interface\obj\Debug\Console_Interface.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_Interface\obj\Debug\Console_Interface.csproj.CopyComplete
+C:\Users\vidyam1\source\repos\Console_Interface\obj\Debug\Console_Interface.exe
+C:\Users\vidyam1\source\repos\Console_Interface\obj\Debug\Console_Interface.pdb

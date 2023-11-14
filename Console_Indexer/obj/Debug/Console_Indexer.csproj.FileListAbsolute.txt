@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_Indexer\bin\Debug\Console_Indexer.exe.config
+C:\Users\vidyam1\source\repos\Console_Indexer\bin\Debug\Console_Indexer.exe
+C:\Users\vidyam1\source\repos\Console_Indexer\bin\Debug\Console_Indexer.pdb
+C:\Users\vidyam1\source\repos\Console_Indexer\obj\Debug\Console_Indexer.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_Indexer\obj\Debug\Console_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_Indexer\obj\Debug\Console_Indexer.exe
+C:\Users\vidyam1\source\repos\Console_Indexer\obj\Debug\Console_Indexer.pdb

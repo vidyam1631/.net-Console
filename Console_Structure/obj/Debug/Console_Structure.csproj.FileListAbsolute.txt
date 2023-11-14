@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_Structure\bin\Debug\Console_Structure.exe.config
+C:\Users\vidyam1\source\repos\Console_Structure\bin\Debug\Console_Structure.exe
+C:\Users\vidyam1\source\repos\Console_Structure\bin\Debug\Console_Structure.pdb
+C:\Users\vidyam1\source\repos\Console_Structure\obj\Debug\Console_Structure.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_Structure\obj\Debug\Console_Structure.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_Structure\obj\Debug\Console_Structure.exe
+C:\Users\vidyam1\source\repos\Console_Structure\obj\Debug\Console_Structure.pdb

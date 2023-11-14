@@ -1,0 +1,10 @@
+C:\Users\vidyam1\source\repos\Console_Inheritance\bin\Debug\Console_Inheritance.exe.config
+C:\Users\vidyam1\source\repos\Console_Inheritance\bin\Debug\Console_Inheritance.exe
+C:\Users\vidyam1\source\repos\Console_Inheritance\bin\Debug\Console_Inheritance.pdb
+C:\Users\vidyam1\source\repos\Console_Inheritance\obj\Debug\Console_Inheritance.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_Inheritance\obj\Debug\Console_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_Inheritance\obj\Debug\Console_Inheritance.exe
+C:\Users\vidyam1\source\repos\Console_Inheritance\obj\Debug\Console_Inheritance.pdb
+C:\Users\vidyam1\source\repos\Console_Inheritance\bin\Debug\ClassLibrary_Inheritance.dll
+C:\Users\vidyam1\source\repos\Console_Inheritance\bin\Debug\ClassLibrary_Inheritance.pdb
+C:\Users\vidyam1\source\repos\Console_Inheritance\obj\Debug\Console_Inheritance.csproj.CopyComplete

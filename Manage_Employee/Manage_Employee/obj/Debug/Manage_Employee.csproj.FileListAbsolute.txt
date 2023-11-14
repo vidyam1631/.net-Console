@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Manage_Employee\Manage_Employee\bin\Debug\Manage_Employee.exe.config
+C:\Users\vidyam1\source\repos\Manage_Employee\Manage_Employee\bin\Debug\Manage_Employee.exe
+C:\Users\vidyam1\source\repos\Manage_Employee\Manage_Employee\bin\Debug\Manage_Employee.pdb
+C:\Users\vidyam1\source\repos\Manage_Employee\Manage_Employee\obj\Debug\Manage_Employee.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Manage_Employee\Manage_Employee\obj\Debug\Manage_Employee.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Manage_Employee\Manage_Employee\obj\Debug\Manage_Employee.exe
+C:\Users\vidyam1\source\repos\Manage_Employee\Manage_Employee\obj\Debug\Manage_Employee.pdb

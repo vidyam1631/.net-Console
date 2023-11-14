@@ -1,0 +1,10 @@
+C:\Users\vidyam1\source\repos\ClassModel\bin\Debug\ClassModel.exe.config
+C:\Users\vidyam1\source\repos\ClassModel\bin\Debug\ClassModel.exe
+C:\Users\vidyam1\source\repos\ClassModel\bin\Debug\ClassModel.pdb
+C:\Users\vidyam1\source\repos\ClassModel\bin\Debug\ClassModelLibrary.dll
+C:\Users\vidyam1\source\repos\ClassModel\bin\Debug\ClassModelLibrary.pdb
+C:\Users\vidyam1\source\repos\ClassModel\obj\Debug\ClassModel.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\ClassModel\obj\Debug\ClassModel.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\ClassModel\obj\Debug\ClassModel.csproj.CopyComplete
+C:\Users\vidyam1\source\repos\ClassModel\obj\Debug\ClassModel.exe
+C:\Users\vidyam1\source\repos\ClassModel\obj\Debug\ClassModel.pdb

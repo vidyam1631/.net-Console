@@ -1,0 +1,10 @@
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\bin\Debug\Console_ClassBasics.exe.config
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\bin\Debug\Console_ClassBasics.exe
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\bin\Debug\Console_ClassBasics.pdb
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\obj\Debug\Console_ClassBasics.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\obj\Debug\Console_ClassBasics.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\obj\Debug\Console_ClassBasics.exe
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\obj\Debug\Console_ClassBasics.pdb
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\bin\Debug\NewClassLibrary.dll
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\bin\Debug\NewClassLibrary.pdb
+C:\Users\vidyam1\source\repos\Console_ClassBasics\Console_ClassBasics\obj\Debug\Console_ClassBasics.csproj.CopyComplete

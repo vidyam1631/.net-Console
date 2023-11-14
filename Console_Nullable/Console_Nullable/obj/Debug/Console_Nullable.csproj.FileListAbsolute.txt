@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_Nullable\Console_Nullable\bin\Debug\Console_Nullable.exe.config
+C:\Users\vidyam1\source\repos\Console_Nullable\Console_Nullable\bin\Debug\Console_Nullable.exe
+C:\Users\vidyam1\source\repos\Console_Nullable\Console_Nullable\bin\Debug\Console_Nullable.pdb
+C:\Users\vidyam1\source\repos\Console_Nullable\Console_Nullable\obj\Debug\Console_Nullable.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_Nullable\Console_Nullable\obj\Debug\Console_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_Nullable\Console_Nullable\obj\Debug\Console_Nullable.exe
+C:\Users\vidyam1\source\repos\Console_Nullable\Console_Nullable\obj\Debug\Console_Nullable.pdb

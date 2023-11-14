@@ -1,0 +1,6 @@
+C:\Users\vidyam1\source\repos\ClassLibrary_Interface\bin\Debug\ClassLibrary_Interface.dll
+C:\Users\vidyam1\source\repos\ClassLibrary_Interface\bin\Debug\ClassLibrary_Interface.pdb
+C:\Users\vidyam1\source\repos\ClassLibrary_Interface\obj\Debug\ClassLibrary_Interface.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\ClassLibrary_Interface\obj\Debug\ClassLibrary_Interface.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\ClassLibrary_Interface\obj\Debug\ClassLibrary_Interface.dll
+C:\Users\vidyam1\source\repos\ClassLibrary_Interface\obj\Debug\ClassLibrary_Interface.pdb

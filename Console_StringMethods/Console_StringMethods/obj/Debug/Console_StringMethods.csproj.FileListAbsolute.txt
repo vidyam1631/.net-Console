@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_StringMethods\Console_StringMethods\obj\Debug\Console_StringMethods.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_StringMethods\Console_StringMethods\obj\Debug\Console_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_StringMethods\Console_StringMethods\bin\Debug\Console_StringMethods.exe.config
+C:\Users\vidyam1\source\repos\Console_StringMethods\Console_StringMethods\bin\Debug\Console_StringMethods.exe
+C:\Users\vidyam1\source\repos\Console_StringMethods\Console_StringMethods\bin\Debug\Console_StringMethods.pdb
+C:\Users\vidyam1\source\repos\Console_StringMethods\Console_StringMethods\obj\Debug\Console_StringMethods.exe
+C:\Users\vidyam1\source\repos\Console_StringMethods\Console_StringMethods\obj\Debug\Console_StringMethods.pdb

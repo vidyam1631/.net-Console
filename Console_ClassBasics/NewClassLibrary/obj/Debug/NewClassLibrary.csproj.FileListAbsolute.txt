@@ -1,0 +1,6 @@
+C:\Users\vidyam1\source\repos\Console_ClassBasics\NewClassLibrary\bin\Debug\NewClassLibrary.dll
+C:\Users\vidyam1\source\repos\Console_ClassBasics\NewClassLibrary\bin\Debug\NewClassLibrary.pdb
+C:\Users\vidyam1\source\repos\Console_ClassBasics\NewClassLibrary\obj\Debug\NewClassLibrary.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_ClassBasics\NewClassLibrary\obj\Debug\NewClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_ClassBasics\NewClassLibrary\obj\Debug\NewClassLibrary.dll
+C:\Users\vidyam1\source\repos\Console_ClassBasics\NewClassLibrary\obj\Debug\NewClassLibrary.pdb

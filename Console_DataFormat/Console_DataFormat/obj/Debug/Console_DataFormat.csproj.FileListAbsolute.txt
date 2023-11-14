@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_DataFormat\Console_DataFormat\obj\Debug\Console_DataFormat.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_DataFormat\Console_DataFormat\obj\Debug\Console_DataFormat.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_DataFormat\Console_DataFormat\bin\Debug\Console_DataFormat.exe.config
+C:\Users\vidyam1\source\repos\Console_DataFormat\Console_DataFormat\bin\Debug\Console_DataFormat.exe
+C:\Users\vidyam1\source\repos\Console_DataFormat\Console_DataFormat\bin\Debug\Console_DataFormat.pdb
+C:\Users\vidyam1\source\repos\Console_DataFormat\Console_DataFormat\obj\Debug\Console_DataFormat.exe
+C:\Users\vidyam1\source\repos\Console_DataFormat\Console_DataFormat\obj\Debug\Console_DataFormat.pdb

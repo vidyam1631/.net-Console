@@ -1,0 +1,10 @@
+C:\Users\vidyam1\source\repos\utility\useUtililty\bin\Debug\useUtililty.exe.config
+C:\Users\vidyam1\source\repos\utility\useUtililty\bin\Debug\useUtililty.exe
+C:\Users\vidyam1\source\repos\utility\useUtililty\bin\Debug\useUtililty.pdb
+C:\Users\vidyam1\source\repos\utility\useUtililty\bin\Debug\utility.dll
+C:\Users\vidyam1\source\repos\utility\useUtililty\bin\Debug\utility.pdb
+C:\Users\vidyam1\source\repos\utility\useUtililty\obj\Debug\useUtililty.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\utility\useUtililty\obj\Debug\useUtililty.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\utility\useUtililty\obj\Debug\useUtililty.csproj.CopyComplete
+C:\Users\vidyam1\source\repos\utility\useUtililty\obj\Debug\useUtililty.exe
+C:\Users\vidyam1\source\repos\utility\useUtililty\obj\Debug\useUtililty.pdb

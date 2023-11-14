@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_Array\Console_Array\bin\Debug\Console_Array.exe.config
+C:\Users\vidyam1\source\repos\Console_Array\Console_Array\bin\Debug\Console_Array.exe
+C:\Users\vidyam1\source\repos\Console_Array\Console_Array\bin\Debug\Console_Array.pdb
+C:\Users\vidyam1\source\repos\Console_Array\Console_Array\obj\Debug\Console_Array.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_Array\Console_Array\obj\Debug\Console_Array.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_Array\Console_Array\obj\Debug\Console_Array.exe
+C:\Users\vidyam1\source\repos\Console_Array\Console_Array\obj\Debug\Console_Array.pdb

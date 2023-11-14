@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_Enum\Console_Enum\bin\Debug\Console_Enum.exe.config
+C:\Users\vidyam1\source\repos\Console_Enum\Console_Enum\bin\Debug\Console_Enum.exe
+C:\Users\vidyam1\source\repos\Console_Enum\Console_Enum\bin\Debug\Console_Enum.pdb
+C:\Users\vidyam1\source\repos\Console_Enum\Console_Enum\obj\Debug\Console_Enum.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_Enum\Console_Enum\obj\Debug\Console_Enum.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_Enum\Console_Enum\obj\Debug\Console_Enum.exe
+C:\Users\vidyam1\source\repos\Console_Enum\Console_Enum\obj\Debug\Console_Enum.pdb

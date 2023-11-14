@@ -1,0 +1,7 @@
+C:\Users\vidyam1\source\repos\Console_RefOut\Console_RefOut\bin\Debug\Console_RefOut.exe.config
+C:\Users\vidyam1\source\repos\Console_RefOut\Console_RefOut\bin\Debug\Console_RefOut.exe
+C:\Users\vidyam1\source\repos\Console_RefOut\Console_RefOut\bin\Debug\Console_RefOut.pdb
+C:\Users\vidyam1\source\repos\Console_RefOut\Console_RefOut\obj\Debug\Console_RefOut.csproj.AssemblyReference.cache
+C:\Users\vidyam1\source\repos\Console_RefOut\Console_RefOut\obj\Debug\Console_RefOut.csproj.CoreCompileInputs.cache
+C:\Users\vidyam1\source\repos\Console_RefOut\Console_RefOut\obj\Debug\Console_RefOut.exe
+C:\Users\vidyam1\source\repos\Console_RefOut\Console_RefOut\obj\Debug\Console_RefOut.pdb
